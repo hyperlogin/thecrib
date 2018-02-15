@@ -195,4 +195,4 @@ var firstClick = true;
        }
   }); 
 // END - pause Animation
-})();
+});
